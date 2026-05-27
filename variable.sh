@@ -1,7 +1,7 @@
 #!/bin/bash
 
-COUNTRY1=RUSSIA
-COUNTRY2=INDIA
+COUNTRY1=$1
+COUNTRY2=$2
 
 echo "$COUNTRY1: HEY!!. How are you doing?"
 echo "$COUNTRY2: Hi!! I am doing fine , how about you?"
